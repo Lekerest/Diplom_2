@@ -1,6 +1,5 @@
 import requests
 import allure
-
 from helpers import CourierHelper
 from urls import Urls
 
