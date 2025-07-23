@@ -1,0 +1,2 @@
+[32mINFO    [0m root:conftest.py:24 Пользователь создан: login=ivan435888@yandex.ru
+[32mINFO    [0m root:helpers.py:35 Пользователь успешно удалён. login=ivan435888@yandex.ru
