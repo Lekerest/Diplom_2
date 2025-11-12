@@ -1,0 +1,10 @@
+*
+!src/
+!.gitignore
+!*.md
+!*.txt
+!*.py
+!*/**/*.py
+!allure_results/*
+!allure_results
+!Tests/
